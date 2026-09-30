@@ -1,0 +1,17 @@
+# Yerel veriler — ilk çalıştırmada yeniden üretilir
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp

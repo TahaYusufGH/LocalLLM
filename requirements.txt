@@ -1,0 +1,17 @@
+# Cekirdek (zorunlu)
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.5
+numpy>=1.26
+requests>=2.31
+python-multipart>=0.0.9
+
+# Belge okuyucular (istege bagli ama onerilir)
+pypdf>=4.0
+python-docx>=1.1
+
+# Cihaz uzerinde gomme modeli (istege bagli)
+# sentence-transformers>=3.0
+
+# Microsoft Foundry Local SDK (istege bagli - otomatik uc nokta bulma icin)
+# foundry-local-sdk
